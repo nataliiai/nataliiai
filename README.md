@@ -2,20 +2,9 @@
 
 ## About Me
 
-Hello! I'm a dedicated PhD candidate based in Toronto, ON, working in the field of quantum chemistry and ML. 
-
-## Skills
-- Programming Languages: Python, R, Bash
-- Quantum Chemistry
-- Statistical Analysis
-- Data Analysis and Prediction
-
-
-## Featured Projects
-
-to be updated...
+Though my background is primarily in chemistry & human health fields, I like to code for fun!
+Since I learnt coding mostly by myself, my scripts are typically extensively documented, so they are beginner-friendly.
 
 ## Contact
-
-I'm always open to discussing new opportunities, collaborations, and innovative projects. 
-Feel free to reach out to me: co.nats.y@gmail.com
+I'm always open to connecting, whether to discuss projects and collaborate or just to chat!
+Feel free to reach out to me here or through email: nataly.ivanova.24@gmail.com
